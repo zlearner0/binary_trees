@@ -1,0 +1,17 @@
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c main.c 3-binary_tree_delete.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 3-del
+
+
+
+
+
+https://www.youtube.com/watch?v=krBOwizyRe0&list=PLeIMaH7i8JDj7DnmO7lll97P1yZjMCpgY&index=2
+
+
+
+
+
+
+max no. of nodes of a tree is 2^L  where is L is the level we want to calculate max node no. here we consider first level is 0
+
+The Maximum number of nodes in a binary tree of height ‘h’ is 2^h – 1
+but here we consider first height is 1
